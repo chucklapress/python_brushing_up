@@ -1,6 +1,6 @@
+#!/usr/local/bin/python3
 
-
-#Practice Python 
+#Practice Python
 
 # String comparison
 def string_diff(str1, str2):
